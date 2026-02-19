@@ -35,7 +35,7 @@ code/
 ### 2. Train Model
 
 ```bash
-https://github.com/Daheilou/FMC_UIA_Deeper
+git clone https://github.com/Daheilou/FMC_UIA_Deeper
 python train.py
 ```
 
