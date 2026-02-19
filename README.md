@@ -48,10 +48,11 @@ Training will automatically:
 
 ### 3. [Experimental Results](https://www.codabench.org/competitions/11539/#/pages-tab)
 
-| Phase | Segmentation_DSC | Segmentation_HD | Classification_Accuracy | Classification_AUC | Classification_F1_macro | 
-Classification_F1_weighted | Classification_MCC | Detection_IoU | Regression_MRE |
+| Phase | Segmentation_DSC | Segmentation_HD | Classification_Accuracy | Classification_AUC | Classification_F1_macro | Classification_F1_weighted | Classification_MCC | Detection_IoU | Regression_MRE |
 |:-----:|:----------------:|:---------------:|:-----------------------:|:------------------:|:-----------------------:|:--------------------------:|:------------------:|:-------------:|:--------------:|
-| Validation | 0.8928 | 30.057 | 0.8345 | 0.919 | 0.8213 | 0.8345 | 0.7217 | 0.7646 | 31.9822 |
+| val | 0.8928 | 30.057 | 0.8345 | 0.919 | 0.8213 | 0.8345 | 0.7217 | 0.7646 | 31.9822 |
+
+
 
 
 ### 4. Acknowledgements
