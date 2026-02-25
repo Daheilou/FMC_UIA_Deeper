@@ -1,5 +1,13 @@
 # [FMC_UIA]-Deeper
 
+## 🤝 Collaborating Institutions
+
+- **ShanghaiTech University** (SHANGHAITECH), China
+- **Beijing University of Technology** (BJUT), China
+- **Dalian University of Technology** (DUT), China
+- **Guangzhou National Laboratory** (GNL), China
+
+
 ### 1. Code structure
 
 ```
